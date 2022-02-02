@@ -33,7 +33,7 @@
 
 ### 🔧 Languages and Tools:
 <hr>
-<h2 align="center">🔧 Languages & Frameworks & Tools & Abilities 🔧</h2>
+
 <br>
 <p align="center">
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />

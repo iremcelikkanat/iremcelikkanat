@@ -1,6 +1,8 @@
 # Hi there, I'm Irem.👋 
 
-- 📫 How to reach me: iremcelikkanat@gmail.com
+- 📫 How to reach me: iremcelikkanat@gmail.com ![](https://visitor-badge.glitch.me/badge?page_id=iremcelikkanat.iremcelikkanat)
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

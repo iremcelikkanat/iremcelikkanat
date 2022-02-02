@@ -15,14 +15,14 @@
 
 
  👨‍🎓 I'm currently studying for a Bachelor's degree in Kocaeli University Computer Engineering Department
-<br />
+<br>
      🎓 I graduated from Istanbul Aydin  University Computer Programming Department
-<br />
+<br>
 
          💻 I love writing code and learn anythings about it
-  <br />
+  <br>
              📚 I’m currently learning how to build E-Commerce Website
-<br />
+<br>
 
 ### Connect with me:
 

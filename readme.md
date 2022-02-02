@@ -5,11 +5,22 @@
 </em></p>
 
 - 📫 How to reach me: iremcelikkanat@gmail.com
-- 
--   ![](https://visitor-badge.glitch.me/badge?page_id=iremcelikkanat.iremcelikkanat)
+ ![](https://visitor-badge.glitch.me/badge?page_id=iremcelikkanat.iremcelikkanat)
 
 <br />
+<br>
+<br>
+<br>
 
+ 🔬 I'm currently studying for a Bachelor's degree in Kocaeli University Computer Engineering Department
+  <br>
+  🎓 I graduated from Istanbul Aydin  University Computer Programming Department
+  <br>
+
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website
+  <br>
 
 ### Connect with me:
 
@@ -20,16 +31,26 @@
 
 
 ### 🔧 Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png" />]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/bootstrap/bootstrap.png" />]
-[<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>]
-
-<br />
-<br />
+<hr>
+<h2 align="center">🔧 Languages & Frameworks & Tools & Abilities 🔧</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+</p>
+<hr>
 
 ---
 📊 **this week i spent my time on:**

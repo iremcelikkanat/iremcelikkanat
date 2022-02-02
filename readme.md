@@ -53,7 +53,7 @@ Other        9 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-📈 my github stats
+
 <img align="left" alt="iremcelikkanat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iremcelikkanat&show_icons=true&hide_border=true" />
 <br />
 <br />

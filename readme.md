@@ -4,7 +4,7 @@
 <p><em>Student at <a href="http://www.kocaeli.edu.tr/">University of Kocaeli</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-- 📫 How to reach me: iremcelikkanat@gmail.com
+- 📫 How to reach me: irem.celikkanat@siemens.com
  ![](https://visitor-badge.glitch.me/badge?page_id=iremcelikkanat.iremcelikkanat)
 
 <br />

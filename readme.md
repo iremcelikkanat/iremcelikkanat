@@ -14,13 +14,11 @@
 
 
 
- 👨‍🎓 I'm currently studying for a Bachelor's degree in Kocaeli University Computer Engineering Department
+ 👨‍🎓 I graduated from Kocaeli University Computer Engineering Department in June 2023
 <br>
 🎓 I graduated from Istanbul Aydin  University Computer Programming Department
 <br>
 💻 I love writing code and learn anythings about it
-<br>
-📚 I’m currently learning how to build E-Commerce Website
 <br>
 
 ### Connect with me:
